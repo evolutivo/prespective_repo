@@ -1,4 +1,5 @@
-{
+{ "name": "evolutivo/test",
+  "type": "prespective",
   "repositories":[
   {
     "type":"vcs",
